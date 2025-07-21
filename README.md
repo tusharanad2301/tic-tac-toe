@@ -1,7 +1,7 @@
 <h1 align="left">🎮 Tic Tac Toe Web Application</h1>
 
 ###
-
+![image alt](https://github.com/tusharanad2301/calculator-application-/blob/351532fd9852a6308aa4cc3334cf130dd9c76b83/Screenshot%202025-07-21%20144015.png)
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
